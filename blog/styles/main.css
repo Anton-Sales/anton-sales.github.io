@@ -50,6 +50,7 @@ ul {
 #liheader {
     display: inline;
     padding: 5px;
+    font-size: 12px;
 }
 
 li a:hover {
